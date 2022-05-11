@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/gofiber/fiber"
+	"github.com/gofiber/fiber/v2"
 	"github.com/kamil5b/go-auth-main/database"
 	"github.com/kamil5b/go-auth-main/models"
 	"github.com/kamil5b/go-auth-main/utils"
